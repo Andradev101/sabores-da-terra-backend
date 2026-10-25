@@ -1,2 +1,6 @@
+api_client/
 venv/
+__pycache__/
 *.pyc
+out/
+diagrams/
